@@ -1,13 +1,15 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Associate of Science
+  uni: Utah Valley University
+  year: 2020 &mdash; 2023
+  #awards:
+    #- award: 
+  #summary: If you had any meaningful roles at college, feel free to write about them here
 
 - degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
+  uni: Maple Mountain High School
+  year: 2023
+  awards: 
+    - award: High Honors
+    - award: CTE Pathway in Digital Media & Broadcasting
   summary: You can choose to have either a single or multiple awards
