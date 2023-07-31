@@ -2,18 +2,18 @@
 # Cashier at Slim Chickens
 - company: Slim Chickens
   position: Cashier
-  duration: January 2023 &mdash; Present
+  duration: Jan, 2023 &mdash; Present
   summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
 # Director of Digital Stratgy
 - company: The Good Line
   position: Production Assistant
-  duration:  November 2022 &mdash; Present
+  duration:  Nov, 2022 &mdash; Present
   summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
 
 
 # Communications Coordinator
-- company: VIVBI
-  position: [Database Administrator] (vivbi.com)
-  duration:   Jun, 2008  &mdash; May, 2010
+- company: [VIVBI] (https://www.vivbi.com)
+  position: Database Administrator
+  duration:   Aug, 2022  &mdash; Dec, 2022
   summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
