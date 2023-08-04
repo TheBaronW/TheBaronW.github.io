@@ -4,13 +4,13 @@
 # Portfolio Website
 - project: Portfolio Website
   # role: Founder & Primary Developer
-  duration: Aug 2023
+  duration: Aug, 2023
   url: "https://github.com/TheBaronW/ThebaronW.github.io"
   description: The website you're looking at right now; built on Jekyll and hosted by GitHub Pages.
 
 # Stable Diffusion LoRA
 - project: Stable Diffusion LoRA
   # role: Co-Founder & Organizer
-  duration: Jul 2023
+  duration: Jul, 2023
   url: "https://github.com/TheBaronW/Spoon-LoRA"
   description: A mini model for Stable Diffusion trained to generate fun pictures. 
