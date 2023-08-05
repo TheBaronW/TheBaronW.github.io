@@ -20,7 +20,7 @@ resume_contact_email:           "westonnlebaron@gmail.com"
 resume_contact_telephone:       "(801)709-4588"
 # resume_contact_address:         "742 Evergreen Terrace, Springfield"
 
-resume_header_contact_info:     "(801)709-4588 • <a href="mailto:westonnlebaron@gmail.com">westonnlebaron@gmail.com</a>"
+resume_header_contact_info:     "(801)709-4588 • [mailto:westonnlebaron@gmail.com](westonnlebaron@gmail.com)"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>I'm a student at Utah Valley University with plans to transfer to the University of Utah, where I will major in Computer Science. I'm currently occupied with projects that will build my skill in desirable, tech-related areas so I can be a valuable team member in my future employments.</p>"
