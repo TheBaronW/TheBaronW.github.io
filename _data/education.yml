@@ -1,10 +1,10 @@
 # Degree
-- degree: Associate of Science
+- degree: Associate in Science
   uni: <a href="https://uvu.edu/" target="blank">Utah Valley University</a>
   year: Aug, 2020 &mdash; Dec, 2023
-  #awards:
-    #- award: 
-  summary: 3.81 Cumulative GPA. 48 credit hours of coursework completed concurrently with high school studies.
+  awards:
+    - award: Honors
+  summary: 3.77 Cumulative GPA
 
 - degree: High School Diploma
   uni: <a href="https://mmhs.nebo.edu" target="blank">Maple Mountain High School</a>
@@ -12,4 +12,4 @@
   awards: 
     - award: High Honors
     - award: CTE Pathway in Digital Media & Broadcasting
-  summary: 3.84 Cumulative GPA. Member of the TV Broadcasting group.
+  summary: 3.84 Cumulative GPA. Member of MMHS TV Broadcasting group.
