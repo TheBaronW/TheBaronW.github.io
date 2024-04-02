@@ -1,5 +1,5 @@
 # Site settings
-title: "Weston LeBaron | Aspiring Software Engineer"
+title: "Weston LeBaron | CS Networking"
 description: "Weston's Portfolio"
 
 # Build settings
@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Weston LeBaron"
-resume_title:                   "Aspiring Software Engineer"
+resume_title:                   "CS Networking Major"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "westonnlebaron@gmail.com"
