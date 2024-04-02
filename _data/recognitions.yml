@@ -1,13 +1,7 @@
-# Recognitions
+# Certifications (recognitions in in variables)
 
-### Not being used in Weston's website. ###
 
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
-
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+- award: TestOut PC Pro Certification
+  organization: TestOut
+  year: December 2023
+  summary: A performance-based assessment for PC hardware, software, and Windows operating system management.
