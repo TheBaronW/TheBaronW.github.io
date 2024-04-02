@@ -1,8 +1,9 @@
 # Degree
 - degree: B.S. Computer Science
-  degree: Associate in Science
+  degree_2: Associate in Science
   uni: <a href="https://uvu.edu/" target="blank">Utah Valley University</a>
-  year: Aug, 2020 &mdash; Dec, 2023
+  year: Dec, 2023 &mdash; 2026
+  year_2: Aug, 2020 &mdash; Dec, 2023
   awards:
     - award: Honors
   summary: 3.77 Cumulative GPA.
