@@ -1,9 +1,11 @@
 # Degree
-- degree: B.S. Computer Science
-  degree_2: Associate in Science
+- degree: CNA Program
+  uni: <a href="https://mtec.edu" target="blank">Mountainland Technical College</a>
+  year: Aug, 2024 &mdash; Nov, 2024
+
+- degree: Associate in Science
   uni: <a href="https://uvu.edu/" target="blank">Utah Valley University</a>
-  year: Dec, 2023 &mdash; 2026
-  year_2: Aug, 2020 &mdash; Dec, 2023
+  year: Aug, 2020 &mdash; Dec, 2023
   awards:
     - award: Honors
   summary: 3.77 Cumulative GPA.
