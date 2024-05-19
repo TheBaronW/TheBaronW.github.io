@@ -1,17 +1,9 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# Portfolio Website
-- project: Portfolio Website
+# Python Blackjack
+- project: Python Blackjack
   # role: Maintainer and Contact
   # duration: Ongoing
-  url: "https://github.com/TheBaronW/ThebaronW.github.io"
-  description: The website you're looking at right now; built on Jekyll and hosted by GitHub Pages.
-
-# Stable Diffusion LoRA
-- project: Stable Diffusion LoRA
-  # role: Maintainer and Contact
-  duration: Jul, 2023
-  url: "https://github.com/TheBaronW/Spoon-LoRA"
-  description: A mini model for Stable Diffusion trained to generate fun pictures. I wrote a full project guide <a href="https://docs.google.com/document/d/1bfHwxSh8Dh1J2G0QWAja1ZV9C4bycX7yST83jG51XxI/edit" target="_blank">here.</a>
-
+  url: "https://github.com/TheBaronW/python-blackjack"
+  description: The game of Blackjack written in python using Object Oriented Design Principles.
